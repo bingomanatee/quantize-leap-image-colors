@@ -1,0 +1,19 @@
+{
+  "name": "quantize_images",
+  "version": "0.0.0",
+  "description": "find the average colors in an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Edelhart",
+  "license": "BSD-2-Clause",
+  "devDependencies": {},
+  "dependencies": {
+    "palette": "0.0.1",
+    "request": "~2.33.0",
+    "async": "~0.2.9",
+    "underscore": "~1.5.2",
+    "data-url-canvas": "0.0.1"
+  }
+}
